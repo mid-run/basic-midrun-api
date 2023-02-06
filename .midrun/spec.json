@@ -1,0 +1,38 @@
+[
+  {
+    "desc": "A random greeting. Accepts an optional 'name' parameter",
+    "emoji": "👋",
+    "implementationStatus": "Idea",
+    "implementationStatusIndex": 1,
+    "method": "GET",
+    "methodCoul": "hsl(322,70%,90%)",
+    "methodTextCoul": "#000",
+    "nbUrlParameters": 0,
+    "operationId": "hello",
+    "orphan": false,
+    "path": "/hello",
+    "potentiallyCachable": true,
+    "projectId": "basicExample",
+    "refreshedSpec": "2023-02-06T15:52:44.586Z",
+    "requiredRole": "public",
+    "urlParameters": []
+  },
+  {
+    "desc": "A status message to confirm your API is working properly.",
+    "emoji": "🏡",
+    "implementationStatus": "Idea",
+    "implementationStatusIndex": 1,
+    "method": "GET",
+    "methodCoul": "hsl(95,70%,90%)",
+    "methodTextCoul": "#000",
+    "nbUrlParameters": 0,
+    "operationId": "home",
+    "orphan": false,
+    "path": "/",
+    "potentiallyCachable": true,
+    "projectId": "basicExample",
+    "refreshedSpec": "2023-02-06T15:52:44.576Z",
+    "requiredRole": "public",
+    "urlParameters": []
+  }
+]
