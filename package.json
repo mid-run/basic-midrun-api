@@ -1,16 +1,17 @@
 {
-    "name": "midrun-express-urban",
+    "name": "basic-midrun-api",
     "website": "https://mid.run",
-    "version": "0.0.1",
+    "version": "0.0.1", 
+    "description": "⚡ Basic API example built with Midrun - https://mid.run",
+ 
+  
     "private": "true",
     "scripts": {
         "start": "node index.js",
-        "dev": "npm run spec & npx nodemon index.js",
-        "spec": "midrun --id urbandictionary --server" 
+        "dev": "npx nodemon index.js"
     },
     "dependencies": {
-        "midrun-node": "latest",
-        "axios": "^1.2.3",
+        "midrun-node": "latest",        
         "cors": "^2.8.5",
         "express": "^4.18.2"
     },
