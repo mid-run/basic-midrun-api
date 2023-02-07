@@ -17,5 +17,9 @@
     },
     "devDependencies": {
         "midrun-cli": "latest"
-    }
+    },
+    "nodemonConfig": {
+        "watch": ["src",  ".midrun/**", ".env"],  
+        "delay": 22
+      }
 }
