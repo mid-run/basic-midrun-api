@@ -8,7 +8,7 @@
     "private": "true",
     "scripts": {
         "start": "node index.js",
-        "dev": "npx nodemon index.js"
+        "dev": "midrun dev"
     },
     "dependencies": {
         "midrun-node": "latest",        

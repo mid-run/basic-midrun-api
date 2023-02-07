@@ -13,7 +13,7 @@
     "path": "/hello",
     "potentiallyCachable": true,
     "projectId": "basicExample",
-    "refreshedSpec": "2023-02-06T15:52:44.586Z",
+    "refreshedSpec": "2023-02-06T16:03:53.064Z",
     "requiredRole": "public",
     "urlParameters": []
   },
@@ -31,7 +31,7 @@
     "path": "/",
     "potentiallyCachable": true,
     "projectId": "basicExample",
-    "refreshedSpec": "2023-02-06T15:52:44.576Z",
+    "refreshedSpec": "2023-02-06T16:03:53.061Z",
     "requiredRole": "public",
     "urlParameters": []
   }
